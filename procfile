@@ -1,0 +1,1 @@
+web: gunicorn de_implementation.wsgi 
